@@ -1,0 +1,7 @@
+diff --git a/HelloWorld.txt b/HelloWorld.txt
+new file mode 100644
+index 0000000..b7fd475
+--- /dev/null
++++ b/HelloWorld.txt
+@@ -0,0 +1 @@
++This is java branch.

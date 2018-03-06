@@ -1,10 +1,12 @@
 <html>
-<body>
-<p id="demo"></p>
-<script>
-document.getElementById("demo").innerHTML = "Hello JavaScript!";
-</script> 
-</body>
+   <body>
+   
+      <script language="javascript" type="text/javascript">
+         <!--
+            document.write("Hello World!")
+         //-->
+      </script>
+      
+   </body>
 </html>
-
 
